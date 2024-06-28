@@ -43,8 +43,3 @@ Jupyter Notebook, MS Excel, MS Power BI
 
 -ST depression mostly increases between the age group of 30 40.
 
-# LinkedIn Post 📲
-https://www.linkedin.com/feed/update/urn:li:activity:6859518539053744128/
-
-# Video 🎬
-https://drive.google.com/file/d/1a9Ct-LIFtwT_JNDdfkIXcbN_OMKI3Bau/view?usp=share_link
